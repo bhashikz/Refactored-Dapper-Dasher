@@ -10,3 +10,5 @@ Features
 3. Parallax scrolling background
 4. Collision detection
 5. Win and lose conditions
+
+![Game Over](GamePlayImages/gameOver.jpg)
