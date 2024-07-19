@@ -1,5 +1,6 @@
 # Refactored-Dapper-Dasher
 Overview - Dasher Game is a simple 2D side-scrolling game built using the raylib library. The player controls a character named "Scarfy" who must avoid obstacles and reach the finish line.
+![Scarfy Screenshot](GamePlayImages/scarfyNebula.jpg)
 
 Features
 
